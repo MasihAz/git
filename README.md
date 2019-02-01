@@ -17,6 +17,7 @@ Known commands
 `git add filename` - add filename to staging area  
 `git add .` - add all files to staging area  
 `git commit -m "commit message"` - create commit  
-`git diff`  
-`git log`  
+`git push` - push to the remote server  
+`git diff` - show difference between working directory and last commit  
+`git log` - show history of commits  
 
