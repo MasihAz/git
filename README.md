@@ -1,8 +1,8 @@
 # console  
 `cd` - change dir  
-`ls` - list directory content
-`cat filename` -  provide content or type and size information for repository objects
-`rm filename` - delete something
+`ls` - list directory content  
+`cat filename` -  provide content or type and size information for repository objects  
+`rm filename` - delete something  
 
 # vs code  
 `Shift + Alt + F` - format code  
