@@ -3,6 +3,7 @@
 `ls` - list directory content  
 `cat filename` -  provide content or type and size information for repository objects  
 `rm filename` - delete something  
+`mkdir foldername` - create folder  
 
 # vs code  
 `Shift + Alt + F` - format code  
