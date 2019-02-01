@@ -4,6 +4,8 @@
 `cat filename` -  provide content or type and size information for repository objects
 `rm filename` - delete something
 
+# vs code  
+`Shift + Alt + F` - format code  
 
 # git
 Known commands  
